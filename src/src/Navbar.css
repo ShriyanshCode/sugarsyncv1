@@ -1,0 +1,51 @@
+/* Navbar styles */
+a{
+    text-decoration: none;
+    color: #35B2C6;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #f0f0f0;
+    width: 100%;
+    
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    margin-right: 1rem;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  /* Dropdown styles */
+  .dropdown {
+    position: absolute; /* Position the dropdown relative to the button */
+    top: 100%; /* Place it below the button */
+    left: 0; /* Align left with the button */
+    background-color: #fff;
+    /* Hide the dropdown initially */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .dropdown.active { /* Style for open dropdown */
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .dropdown li {
+    padding: 0.5rem 1rem;
+  }
+  

@@ -1,0 +1,48 @@
+#root{
+    display: flexbox;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: #7AE4F5;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    
+}
+h1{
+    font-size: 5rem;
+}
+#box{
+    border: 2px black solid;
+    padding:15px;
+    border-radius: 1rem;
+}
+button{
+    background-color: #35B2C6;
+}
+.signup-label {
+    margin-right: 10px; /* Optional spacing between label and input */
+  }
+  .signup-field {
+    display: flex; /* Enable flexbox for the container */
+    align-items: center; /* Align labels and inputs vertically */
+    margin-bottom: 10px; /* Optional spacing between fields */
+   
+  }
+#image{
+    height: 100px;
+}
+@media screen and (max-width: 768px) {
+    /* Styles for your div element when screen width is less than 768px */
+    #box{
+        display: block;
+        width: min-content;
+    }
+      /* Apply your desired styles here */
+    }
+  
+  
