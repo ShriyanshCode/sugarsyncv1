@@ -1,0 +1,58 @@
+mlmodel@0.1.0 C:\Users\shriy\OneDrive\Desktop\mltf\mlmodel
+├── @tensorflow/tfjs-node@4.18.0
+├── @testing-library/jest-dom@5.17.0
+├── @testing-library/react@13.4.0
+├── @testing-library/user-event@13.5.0
+├── react-dom@18.3.1
+├── react-scripts@5.0.1
+├── react@18.3.1
+└── web-vitals@2.1.4
+
+
+
+
+
+
+
+
+
+
+sugar@0.1.0 C:\Users\shriy\OneDrive\Desktop\sugarsyn\sugarsync2\front\sugar
+├── @tensorflow/tfjs-node@4.18.0
+├── @testing-library/jest-dom@5.17.0
+├── @testing-library/react@13.4.0
+├── @testing-library/user-event@13.5.0
+├── axios@1.6.8
+├── chart.js@4.4.2
+├── chartjs-adapter-date-fns@3.0.0
+├── chartjs-adapter-moment@1.0.1
+├── date-fns@3.6.0
+├── moment@2.30.1
+├── plotly.js-basic-dist@2.32.0
+├── react-dom@18.3.1
+├── react-router-dom@6.23.0	
+├── react-scripts@5.0.1
+├── react@18.3.1
+├── web-vitals@2.1.4
+└── xlsx@0.18.5
+
+
+
+sugarsyncv1@0.1.0 C:\Users\shriy\OneDrive\Desktop\sugarsync_fin\sugarsyncv1
+├── @tensorflow/tfjs-node@4.19.0
+├── @testing-library/jest-dom@5.17.0
+├── @testing-library/react@13.4.0
+├── @testing-library/user-event@13.5.0
+├── axios@1.6.8
+├── chart.js@4.4.2
+├── chartjs-adapter-date-fns@3.0.0
+├── chartjs-adapter-moment@1.0.1
+├── date-fns@3.6.0
+├── moment@2.30.1
+├── plotly.js-basic-dist@2.32.0
+├── react-dom@18.3.1
+├── react-router-dom@6.23.0
+├── react-scripts@5.0.1
+├── react@18.3.1
+├── web-vitals@2.1.4
+└── xlsx@0.18.5
