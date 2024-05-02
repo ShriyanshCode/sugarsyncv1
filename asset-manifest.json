@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sugarsyncv1/static/css/main.70681dfc.css",
+    "main.js": "/sugarsyncv1/static/js/main.78a367aa.js",
+    "static/js/453.6e5d8e53.chunk.js": "/sugarsyncv1/static/js/453.6e5d8e53.chunk.js",
+    "index.html": "/sugarsyncv1/index.html",
+    "main.70681dfc.css.map": "/sugarsyncv1/static/css/main.70681dfc.css.map",
+    "main.78a367aa.js.map": "/sugarsyncv1/static/js/main.78a367aa.js.map",
+    "453.6e5d8e53.chunk.js.map": "/sugarsyncv1/static/js/453.6e5d8e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70681dfc.css",
+    "static/js/main.78a367aa.js"
+  ]
+}
