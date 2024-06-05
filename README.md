@@ -1,3 +1,11 @@
+# Screenshots of webapp:
+
+![Screenshot 2024-05-02 201203](https://github.com/ShriyanshCode/sugarsyncv1/assets/146875550/710c110f-0eb6-4b38-beaf-c6333aa35435)
+
+![Screenshot 2024-05-02 184810](https://github.com/ShriyanshCode/sugarsyncv1/assets/146875550/d3b4994b-ddf3-4437-8b43-25daf529bb6f)
+
+![Screenshot 2024-05-02 201142](https://github.com/ShriyanshCode/sugarsyncv1/assets/146875550/c91275ae-dd6c-4ee9-a8cb-52656b436774)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
