@@ -3,14 +3,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.1/fireba
 import { getDatabase, ref, set, get, child  } from "https://www.gstatic.com/firebasejs/10.11.1/firebase-database.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA3rlehLWjQazkLeDF2K90OkhEvMdIRUgE",
-    authDomain: "sugarsync-3daf5.firebaseapp.com",
-    databaseURL: "https://sugarsync-3daf5-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "sugarsync-3daf5",
-    storageBucket: "sugarsync-3daf5.appspot.com",
-    messagingSenderId: "408123625851",
-    appId: "1:408123625851:web:7ec76dd70b167950b72dde",
-    measurementId: "G-ZKVDMJV6NS"
+    // ENTER OWN CONFIG
   };
   
 
