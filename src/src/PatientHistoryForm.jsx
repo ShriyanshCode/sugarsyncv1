@@ -4,7 +4,7 @@ import { getDatabase, ref, set, get, child  } from "https://www.gstatic.com/fire
 import { Link } from 'react-router-dom';
 const firebaseConfig = {
 
-  ##ENTER OWN CONFIG##
+  //ENTER OWN CONFIG
 };
 
 const app = initializeApp(firebaseConfig);
