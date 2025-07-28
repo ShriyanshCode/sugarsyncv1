@@ -1,3 +1,7 @@
+# Working
+<img width="5672" height="1484" alt="diagram (1)" src="https://github.com/user-attachments/assets/67af97fd-9e1f-46dd-a468-3949cd688179" />
+
+
 # Screenshots of webapp:
 
 ![Screenshot 2024-05-02 201203](https://github.com/ShriyanshCode/sugarsyncv1/assets/146875550/710c110f-0eb6-4b38-beaf-c6333aa35435)
